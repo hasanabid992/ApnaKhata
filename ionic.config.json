@@ -1,0 +1,7 @@
+{
+  "name": "apnakhata",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
